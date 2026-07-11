@@ -2,7 +2,7 @@
 
 # Hi, I'm Yusuf 👋
 
-### AI Automation Builder • n8n Developer • Problem Solver
+### AI Automation Builder • n8n Developer • AI Coder
 
 Building intelligent automation systems that eliminate repetitive work and turn ideas into practical solutions.
 
@@ -30,8 +30,10 @@ Building intelligent automation systems that eliminate repetitive work and turn 
 
 ### AI
 
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### APIs
 
