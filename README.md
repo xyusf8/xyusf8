@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Mahum 👋
+# Hi, I'm Yusuf 👋
 
 ### AI Automation Builder • n8n Developer • Problem Solver
 
@@ -83,7 +83,7 @@ An AI-powered Telegram assistant that records, understands, and analyzes persona
 
 - Portfolio *(Coming Soon)*
 - LinkedIn *(Coming Soon)*
-- Email: your@email.com
+- Email: yusuffakhri108@gmail.com
 
 ---
 
